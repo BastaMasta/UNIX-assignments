@@ -1,0 +1,3 @@
+C:/Users/basta/Documents/UNIX-assignments/libprojC/cmake-build-debug/CMakeFiles/libprojC.dir
+C:/Users/basta/Documents/UNIX-assignments/libprojC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/basta/Documents/UNIX-assignments/libprojC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
