@@ -459,8 +459,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/basta/Documents/UNIX-assignments/libprojC/cmake-build-debug",
-		"source" : "C:/Users/basta/Documents/UNIX-assignments/libprojC"
+		"build" : "C:/Users/basta/Documents/GitHub/UNIX-assignments/libprojC/cmake-build-debug",
+		"source" : "C:/Users/basta/Documents/GitHub/UNIX-assignments/libprojC"
 	},
 	"version" : 
 	{
